@@ -4,16 +4,16 @@ Program aims to demonstrate a math and cyber security techniques viz: geometri f
 
 Current program covers following python notations:
 
-I/O – Input and output
-Assignment
-Data Types
-Conditional Statements
-Boolean Operators
-Loops
-Lists
-User defined functions
-Graphics
-Files
+1) I/O – Input and output
+2) Assignment
+3) Data Types
+4) Conditional Statements
+5) Boolean Operators
+6) Loops
+7) Lists
+8) User defined functions
+9) Graphics
+10) Files
 
 Libraries:
 
