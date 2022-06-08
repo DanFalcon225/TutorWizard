@@ -1,6 +1,6 @@
 # TutorWizard
 Tutor Wizard is a multi-purpose problem solving program designed for students who need assistance with the modules.
-Program aims to demonstrate a math and cyber security techniques viz: geometri funcation for math and encryption / decryption for cyber security.
+Program aims to demonstrate a math and cyber security techniques viz: geometric function for math and encryption / decryption for cyber security.
 
 Current program covers following python notations:
 
